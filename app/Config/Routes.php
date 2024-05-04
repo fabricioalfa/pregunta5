@@ -20,6 +20,8 @@ $routes->get('titular', 'titularcontroler::index');
 
 $routes->get('empleado', 'empleadocontroler::index');
 
+$routes->get('director', 'directorcontroler::index');
+
 
 
 

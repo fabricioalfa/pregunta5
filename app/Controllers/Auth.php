@@ -32,7 +32,7 @@ class Auth extends Controller
                 return redirect()->to('empleado');
                 break;
             case 'Director Bancario':
-                return redirect()->to(('Director Bancario'));
+                return redirect()->to(('director'));
                 break;
             default:
                 // En caso de un rol desconocido, redirigir a una página de error o mostrar un mensaje de error
