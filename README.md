@@ -10,7 +10,7 @@ PREGUNTA 6
 entrar a la ruta proporsionada y colocar login (localhost/login)
 -user= Fabricio
 -password = qwerty (es Titular) 
-****************************************
+
 -user= Juan
 -password = secret (Empleado) 
 
